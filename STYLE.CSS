@@ -1,0 +1,13 @@
+body 
+{
+    text-align: center;
+    background: linear-gradient(blue, aqua, lightblue,aquamarine);
+}
+#jasmat
+{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border-width: 20px;
+    border-color: black;
+}
